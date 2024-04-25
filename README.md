@@ -9,5 +9,5 @@ The home page serves as an introduction, providing a brief overview of who I am 
 The contact page allows visitors to get in touch with me easily. It typically includes a contact form or my contact details, such as email address or social media links.
 Technologies Used
 ## HTML5: Used for structuring the content of both the home and contact pages.
-## CSS3: Used for styling and layout.
+## CSS: Used for styling and layout.
 Thankyou for Visiting My Portfolio website!
