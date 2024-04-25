@@ -1,4 +1,4 @@
-# portfolio-simple-website
+# My portfolio website
 Portfolio Website
 This is a simple portfolio website that I created using HTML and basic CSS. It consists of two pages: the home page and the contact page.
 
